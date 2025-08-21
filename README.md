@@ -4,7 +4,7 @@ Este repositorio contiene los documentos, talleres y parciales de la clase de SA
 #contenido
 taller 1
 taller 2
-
+pate
 
 
 
